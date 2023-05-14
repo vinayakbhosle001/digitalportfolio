@@ -26,8 +26,8 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository: "https://github.com/vinayakbhosle001/digitalportfolio",
+  githubProfile: "https://github.com/vinayakbhosle001",
 };
 
 const socialMediaLinks = [
@@ -76,12 +76,12 @@ const socialMediaLinks = [
 //     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
 //     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
 //   },
-//   {
-//     name: "Instagram",
-//     link: "https://www.instagram.com/layman_brother/",
-//     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-//     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-//   },
+  {
+    name: "Instagram",
+    link: "https://www.instagram.com/vinayak_bhosle001/",
+    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  },
 ];
 
 const skills = {
